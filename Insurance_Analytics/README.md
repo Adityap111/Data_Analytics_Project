@@ -153,7 +153,7 @@ Used to develop an interactive business intelligence dashboard.
 
 `Data Modeling` · `DAX Measures` · `KPI Dashboards` · `Interactive Visualizations` · `Trend Analysis` · `Customer Segmentation`
 
-📂 [View Power BI Dashboard](PowerBI_Dashboard/Insurance%20analytics%20PowerBI%20Dashboard.pbix)
+📂 [View Power BI Dashboard](PowerBI_Dashboard/Insurance%20analyatics%20PowerBI%20Dashboard.pbix)
 
 ---
 
