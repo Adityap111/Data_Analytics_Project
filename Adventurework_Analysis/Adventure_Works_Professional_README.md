@@ -170,30 +170,39 @@ The Tableau solution focuses on interactive visualization, dashboard design, tre
 ## 📁 Repository Structure
 
 ```text
-Adventure-Works-Data-Analytics-Project/
+Adventurework_Analysis/
 │
-├── Dataset/
-│   └── AdventureWorks\_Dataset.xlsx
+├── Datasets/
+│   └── Datasets.xlsx
 │
-├── SQL/
-│   └── AdventureWorks\_SQL.sql
+├── SQL_Analysis/
+│   └── Adventurework sql analysis.sql
 │
-├── Excel/
-│   └── AdventureWorks\_Excel\_Dashboard.xlsx
+├── Excel_Dashboard/
+│   └── AdventureWorks_Excel_Dashboard.xlsx
 │
-├── PowerBI/
-│   └── AdventureWorks\_PowerBI.pbix
+├── Power_BI_Dashboard/
+│   └── AdventureWorks_PowerBI Dashboard.pbix
 │
-├── Tableau/
-│   └── AdventureWorks\_Tableau.twbx
+├── Tableau_Dashboard/
+│   └── AdventureWorks Tableau Dashboard.twbx
 │
 ├── Presentation/
-│   └── AdventureWorks\_Project\_Presentation.pptx
+│   └── AdventureWorks_Report_Presentation.pptx
 │
 ├── Images/
-│   ├── Excel Dashboard.png
-│   ├── Power BI Dashboard.png
-│   └── Tableau Dashboard.png
+│   └── Excel_Dashboard/
+│       └── Excel Dashboard 1.png
+│       └── Excel Dashboard 2.png
+│       └── Excel Dashboard 3.png
+│   └── Power_BI_Dashboard/
+│       └── PowerBI Dashboard 1.png
+│       └── PowerBI Dashboard 2.png
+│       └── PowerBI Dashboard 3.png
+│   └── Tableau_Dashboard/
+│       └── Tableau Dashboard 1.png
+│       └── Tableau Dashboard 2.png
+│       └── Tableau Dashboard 3.png
 │
 └── README.md
 ```
