@@ -38,19 +38,17 @@ The project addresses key business questions:
 
 # 📈 Dashboard Preview
 
-> Add your dashboard screenshots to the `Images/` folder using the filenames shown below.
-
 ### Power BI
 
-![Power BI Dashboard](Images/PowerBI Dashboard.png)
+![Power BI Dashboard](Images/PowerBI%20Dashboard.png)
 
 ### Tableau
 
-![Tableau Dashboard](Images/Tableau Dashboard.png)
+![Tableau Dashboard](Images/Tableau%20Dashboard.png)
 
 ### Excel
 
-![Excel Dashboard](Images/Excel Dashboard.png)
+![Excel Dashboard](Images/Excel%20Dashboard.png)
 
 ---
 
