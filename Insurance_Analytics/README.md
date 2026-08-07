@@ -117,7 +117,7 @@ Used for initial data analysis and dashboard development.
 
 `Data Cleaning` · `Data Transformation` · `Pivot Tables` · `VLOOKUP/XLOOKUP` · `Charts` · `KPI Analysis`
 
-📂 [View Excel Dashboard](Excel/Insurance_Analytics_Excel_Dashboard.xlsx)
+📂 [View Excel Dashboard](Excel%20Dashboard/Insurance%20Analytics%20Excel%20Dashboard.xlsx)
 
 ---
 
@@ -264,18 +264,6 @@ Insurance-Analytics-Project/
 - Trend Analysis
 - Customer Segmentation
 - Data Storytelling
-
----
-
-# 👥 Team
-
-This project was completed collaboratively by:
-
-- **Aditya Patel**
-- Pooja Mirje
-- Bhawana Gadhave
-
-> Individual contributions should be documented separately based on each team member's responsibilities.
 
 ---
 
