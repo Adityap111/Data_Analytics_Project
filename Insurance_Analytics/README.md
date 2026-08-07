@@ -141,7 +141,7 @@ Used to build interactive dashboards for policy, customer, and claims analysis.
 
 `Customer Segmentation` · `Trend Analysis` · `Policy Analysis` · `Claims Analysis` · `Data Storytelling`
 
-📂 [View Tableau Workbook](Tableau/Insurance_Analytics_Tableau_Dashboard.twbx)
+📂 [[View Tableau Workbook](Tableau_Dashboard/Insurance%20analytics%20Tableau%20dashboard.twbx)
 
 ---
 
