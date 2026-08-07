@@ -271,7 +271,7 @@ Insurance-Analytics-Project/
 
 For a detailed overview of the project, methodology, findings, and recommendations:
 
-📂 [View Project Presentation](Presentation/Insurance_Analytics_Project_Presentation.pptx)
+📂 [View Project Presentation](Presentation/Insurance%20Analytics%20PPT.pptx)
 
 ---
 
