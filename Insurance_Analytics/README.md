@@ -117,7 +117,7 @@ Used for initial data analysis and dashboard development.
 
 `Data Cleaning` · `Data Transformation` · `Pivot Tables` · `VLOOKUP/XLOOKUP` · `Charts` · `KPI Analysis`
 
-📂 [View Excel Dashboard](Excel%20Dashboard/Insurance%20Analytics%20Excel%20Dashboard.xlsx)
+📂 [View Excel Dashboard](Excel_Dashboard/Insurance%20Analytics%20Excel%20Dashboard.xlsx)
 
 ---
 
