@@ -129,7 +129,7 @@ Used to extract, transform, aggregate, and analyze insurance data.
 
 `Joins` · `GROUP BY` · `Aggregations` · `CASE` · `Filtering` · `Subqueries` · `KPI Calculations`
 
-📂 [View SQL Queries](SQL/Insurance_Analytics_SQL_Queries.sql)
+📂 [View SQL Queries](SQL_Analysis/Insurance%20Analytics%20SQL%20Queries.sql)
 
 ---
 
@@ -153,7 +153,7 @@ Used to develop an interactive business intelligence dashboard.
 
 `Data Modeling` · `DAX Measures` · `KPI Dashboards` · `Interactive Visualizations` · `Trend Analysis` · `Customer Segmentation`
 
-📂 [View Power BI Dashboard](PowerBI/Insurance_Analytics_PowerBI_Dashboard.pbix)
+📂 [View Power BI Dashboard](PowerBI_Dashboard/Insurance%20analytics%20PowerBI%20Dashboard.pbix)
 
 ---
 
