@@ -152,7 +152,7 @@ The Excel dashboard provides an initial analytical view of the Adventure Works d
 > Add your Excel dashboard screenshot here.
 
 ```text
-Images/Excel Dashboard.png
+![Excel Dashboard](Images/Excel_Dashboard/Excel Dashboard 1.png)
 ```
 
 \---
