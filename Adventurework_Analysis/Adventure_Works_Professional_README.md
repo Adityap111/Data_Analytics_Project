@@ -272,20 +272,6 @@ Based on the analysis, the following areas can be prioritized:
 
 \---
 
-## 🤝 Team Collaboration
-
-The project was completed collaboratively by a **7-member team**.
-
-The project involved:
-
-* Distributing tasks across team members based on tools and responsibilities.
-* Maintaining regular communication and progress tracking.
-* Collaborating to solve data-related challenges.
-* Aligning insights across Excel, Power BI, Tableau, and SQL.
-* Integrating individual contributions into a unified analytics project.
-
-\---
-
 ## 📚 Key Learnings
 
 This project provided practical experience in:
@@ -332,9 +318,9 @@ This repository contains the project deliverables for:
 
 Aspiring Data Analyst | SQL | Excel | Power BI | Tableau | Python
 
-**GitHub:** Add your GitHub profile URL here
+**GitHub:** [Aditya Patel](https://github.com/Adityap111)
 
-**LinkedIn:** Add your LinkedIn profile URL here
+**LinkedIn:** [Aditya Patel]www.linkedin.com/in/aditya-patel98
 
 \---
 
