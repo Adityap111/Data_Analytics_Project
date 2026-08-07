@@ -194,35 +194,34 @@ Used to develop an interactive business intelligence dashboard.
 # 📁 Repository Structure
 
 ```text
-Insurance-Analytics-Project/
+Insurance_Analytics/
 │
 ├── README.md
 │
-├── Data/
-│   └── README.md
+├── Datasets
+│   └── Datasets.xlsx
 │
-├── Excel/
-│   └── Insurance_Analytics_Excel_Dashboard.xlsx
+├── Excel_Dashboard
+│   └── Insurance Analytics Excel Dashboard.xlsx
 │
-├── SQL/
-│   └── Insurance_Analytics_SQL_Queries.sql
+├── SQL_Analysis
+│   └── Insurance Analytics SQL Queries.sql
 │
-├── PowerBI/
-│   └── Insurance_Analytics_PowerBI_Dashboard.pbix
+├── PowerBI_Dashboard
+│   └── Insurance Analytics PowerBI Dashboard.pbix
 │
-├── Tableau/
-│   └── Insurance_Analytics_Tableau_Dashboard.twbx
+├── Tableau_Dashboard
+│   └── Insurance Analytics Tableau Dashboard.twbx
 │
 ├── Presentation/
-│   └── Insurance_Analytics_Project_Presentation.pptx
+│   └── Insurance Analytics PPT.pptx
 │
 ├── Images/
-│   ├── Excel_Dashboard.png
-│   ├── Tableau_Dashboard.png
-│   └── PowerBI_Dashboard.png
-│
-└── Documentation/
-    └── Project_Insights.md
+    ├── Excel Dashboard.png
+    ├── Tableau Dashboard.png
+    └── PowerBI Dashboard.png
+
+
 ```
 
 ---
@@ -272,14 +271,6 @@ Insurance-Analytics-Project/
 For a detailed overview of the project, methodology, findings, and recommendations:
 
 📂 [View Project Presentation](Presentation/Insurance%20Analytics%20PPT.pptx)
-
----
-
-## ⚠️ Data Availability
-
-The underlying dataset is not included in this repository where it contains restricted, confidential, or personally identifiable information.
-
-The repository contains the analytical outputs, dashboards, SQL queries, documentation, and project presentation.
 
 ---
 
