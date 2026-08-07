@@ -216,7 +216,7 @@ Insurance_Analytics/
 ├── Presentation/
 │   └── Insurance Analytics PPT.pptx
 │
-├── Images/
+└── Images/
     ├── Excel Dashboard.png
     ├── Tableau Dashboard.png
     └── PowerBI Dashboard.png
