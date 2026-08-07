@@ -42,15 +42,15 @@ The project addresses key business questions:
 
 ### Power BI
 
-![Power BI Dashboard](Images/PowerBI_Dashboard.png)
+![Power BI Dashboard](Images/PowerBI Dashboard.png)
 
 ### Tableau
 
-![Tableau Dashboard](Images/Tableau_Dashboard.png)
+![Tableau Dashboard](Images/Tableau Dashboard.png)
 
 ### Excel
 
-![Excel Dashboard](Images/Excel_Dashboard.png)
+![Excel Dashboard](Images/Excel Dashboard.png)
 
 ---
 
