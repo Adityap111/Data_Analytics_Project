@@ -149,7 +149,7 @@ The Excel dashboard provides an initial analytical view of the Adventure Works d
 
 **Dashboard Preview**
 
-![Excel Dashboard](Images/Excel_Dashboard/Excel Dashboard 1.png)
+![Excel Dashboard](Images/Excel_Dashboard/Excel%20Dashboard%201.png)
 
 ### Power BI
 
