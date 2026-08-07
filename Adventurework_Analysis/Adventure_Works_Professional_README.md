@@ -318,7 +318,7 @@ This repository contains the project deliverables for:
 
 Aspiring Data Analyst | SQL | Excel | Power BI | Tableau | Python
 
-**GitHub:** [Aditya Patel](https://github.com/Adityap111)
+**GitHub:** [Aditya Patel](https://github.com/Adityap111/Data_Analytics_Project)
 
 **LinkedIn:** [Aditya Patel]www.linkedin.com/in/aditya-patel98
 
