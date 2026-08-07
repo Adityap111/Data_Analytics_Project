@@ -157,13 +157,7 @@ The Power BI solution focuses on interactive business intelligence reporting, in
 
 **Dashboard Preview**
 
-> Add your Power BI dashboard screenshot here.
-
-```text
-Images/Power BI Dashboard.png
-```
-
-\---
+![Power bi Dashboard](Images/Power_BI_Dashboard/PowerBI%20Dashboard%201.png)
 
 ### Tableau
 
@@ -171,13 +165,7 @@ The Tableau solution focuses on interactive visualization, dashboard design, tre
 
 **Dashboard Preview**
 
-> Add your Tableau dashboard screenshot here.
-
-```text
-Images/Tableau Dashboard.png
-```
-
-\---
+![Tableau Dashboard](Images/Tableau_Dashboard/Tableau%20Dashboard%201.png)
 
 ## 📁 Repository Structure
 
